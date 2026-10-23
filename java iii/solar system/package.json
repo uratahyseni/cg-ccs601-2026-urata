@@ -1,14 +1,11 @@
+
 {
-  "name": "java-i",
+  "name": "solar-system",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {},
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "three": "^0.186.1",
-    "vite": "^8.3.4"
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   }
 }
